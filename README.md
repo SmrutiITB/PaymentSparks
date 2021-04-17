@@ -1,2 +1,2 @@
-# PaymentSparks
+# PaymentGatewaySparks
 # Sparks-Bank
